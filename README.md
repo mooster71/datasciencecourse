@@ -1,1 +1,3 @@
 # datasciencecourse
+
+#read me first
